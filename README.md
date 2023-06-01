@@ -1,6 +1,6 @@
 # Maze_Project
 <p align = "center">
-  <img src = "https://imgur.com/gallery/EXljY" width="550px">
+  <img src = "https://imgur.com/gallery/EXljY">
 </p>
 
 # 📄 Documents
