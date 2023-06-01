@@ -1,4 +1,6 @@
 # Maze_Project
+## Flowchart
+![The Maze Flow Chart](https://i.imgur.com/t0MxNni.png)
 
 # 📄 Documents
 
